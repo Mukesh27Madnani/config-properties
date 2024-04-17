@@ -1,5 +1,5 @@
 accounts:
-  message: "Welcome to this application in QA env"
+  message: "Welcome to this application in QA env in git"
   contactDetails:
     name: "QA Developer"
     email: "qa@gmail.com"
