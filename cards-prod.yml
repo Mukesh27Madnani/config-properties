@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to cards application in Prod env"
+  contactDetails:
+    name: "Prod"
+    email: "prod@gmail.com"
+  onCallSupport:
+    - 789456123
+    - 123456789

@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to this application"
+  contactDetails:
+    name: "Mukesh"
+    email: "mukesh27madnani@gmail.com"
+  onCallSupport:
+    - 789456123
+    - 123456789

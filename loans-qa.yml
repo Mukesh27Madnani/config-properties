@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to loans application in QA env"
+  contactDetails:
+    name: "QA Developer"
+    email: "qa@gmail.com"
+  onCallSupport:
+    - 789456123
+    - 123456789
